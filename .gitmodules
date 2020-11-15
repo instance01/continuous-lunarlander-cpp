@@ -1,0 +1,4 @@
+[submodule "box2d"]
+	path = box2d
+	url = https://github.com/Instance-contrib/box2d.git
+	branch = instance
