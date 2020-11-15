@@ -5,4 +5,4 @@ Unfortunately it requires a box2d fork that supports getting and setting the sle
 The fork is linked in this repository.
 
 To use it, copy both `lunar_lander.cpp` and `lunar_lander.hpp` to your project and add the box2d fork as a dependency.
-An example for cmake can be found [https://github.com/instance01/GRAB0/blob/master/src/CMakeLists.txt](here).
+An example for cmake can be found [here](https://github.com/instance01/GRAB0/blob/master/src/CMakeLists.txt).
